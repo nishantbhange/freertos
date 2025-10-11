@@ -1,0 +1,10 @@
+11:33:35 **** Build of configuration Debug for project TASK_SCHEDUALR_002 ****
+make -j16 all 
+arm-none-eabi-size  TASK_SCHEDUALR_002.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4760	     96	   1984	   6840	   1ab8	TASK_SCHEDUALR_002.elf
+Finished building: default.size.stdout
+ 
+
+11:33:35 Build Finished. 0 errors, 0 warnings. (took 881ms)
+

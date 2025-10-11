@@ -1,0 +1,10 @@
+15:10:22 **** Build of configuration Debug for project usage_fault ****
+make -j16 all 
+arm-none-eabi-size  usage_fault.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4936	     92	   1900	   6928	   1b10	usage_fault.elf
+Finished building: default.size.stdout
+ 
+
+15:10:23 Build Finished. 0 errors, 0 warnings. (took 717ms)
+

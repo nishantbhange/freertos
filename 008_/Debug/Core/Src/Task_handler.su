@@ -1,0 +1,7 @@
+../Core/Src/Task_handler.c:23:6:menuHANDLER	48	static
+../Core/Src/Task_handler.c:86:6:ledHANDLER	40	static
+../Core/Src/Task_handler.c:157:6:rtcHANDLER	80	static
+../Core/Src/Task_handler.c:283:6:printHANDLER	32	static
+../Core/Src/Task_handler.c:293:6:commandHANDLER	40	static
+../Core/Src/Task_handler.c:308:6:Process_Command	24	static
+../Core/Src/Task_handler.c:337:5:Extract_Command	32	static

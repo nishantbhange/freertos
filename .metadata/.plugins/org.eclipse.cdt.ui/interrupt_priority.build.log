@@ -1,0 +1,10 @@
+15:10:19 **** Build of configuration Debug for project interrupt_priority ****
+make -j16 all 
+arm-none-eabi-size  interrupt_priority.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5044	     92	   1900	   7036	   1b7c	interrupt_priority.elf
+Finished building: default.size.stdout
+ 
+
+15:10:20 Build Finished. 0 errors, 0 warnings. (took 716ms)
+

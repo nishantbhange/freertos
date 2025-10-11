@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002LEDBLINK,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0052_led_notification (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0052_led_notification,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005HW_led_notification,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_led_notification,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006LED_BLINK,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:007_LED_BLINK,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:assembly_code,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:first,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:usage_fault,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:usage_fault_2,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:svc_exception,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Task_schedular,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TASK_SCHEDULER_001
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002LEDBLINK/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002LEDBLINK/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0052_led_notification/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0052_led_notification/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_led_notification/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_led_notification/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:svc_exception/activeLaunchMode=debug

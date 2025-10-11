@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:5:main	4
+../Core/Src/main.c:130:6:SystemClock_Config	3
+../Core/Src/main.c:177:13:MX_GPIO_Init	1
+../Core/Src/main.c:321:13:RED_HANDLER	2
+../Core/Src/main.c:342:13:BLUE_HANDLER	2
+../Core/Src/main.c:361:13:GREEN_HANDLER	2
+../Core/Src/main.c:381:6:BUTTON_INTERRUPT_HANDLER	2
+../Core/Src/main.c:402:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:420:6:Error_Handler	1

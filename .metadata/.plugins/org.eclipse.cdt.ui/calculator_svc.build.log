@@ -1,0 +1,10 @@
+15:10:15 **** Build of configuration Debug for project calculator_svc ****
+make -j16 all 
+arm-none-eabi-size  calculator_svc.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3376	     92	   1900	   5368	   14f8	calculator_svc.elf
+Finished building: default.size.stdout
+ 
+
+15:10:15 Build Finished. 0 errors, 0 warnings. (took 602ms)
+

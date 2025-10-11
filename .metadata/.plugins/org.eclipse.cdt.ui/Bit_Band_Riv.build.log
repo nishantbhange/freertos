@@ -1,0 +1,10 @@
+10:22:44 **** Build of configuration Debug for project Bit_Band_Riv ****
+make -j16 all 
+arm-none-eabi-size  Bit_Band_Riv.elf 
+   text	   data	    bss	    dec	    hex	filename
+    684	      0	   1568	   2252	    8cc	Bit_Band_Riv.elf
+Finished building: default.size.stdout
+ 
+
+10:22:44 Build Finished. 0 errors, 0 warnings. (took 451ms)
+

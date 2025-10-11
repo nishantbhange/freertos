@@ -1,0 +1,10 @@
+15:10:20 **** Build of configuration Debug for project stack_change_msp_to_psp ****
+make -j16 all 
+arm-none-eabi-size  stack_change_msp_to_psp.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4940	     92	   1900	   6932	   1b14	stack_change_msp_to_psp.elf
+Finished building: default.size.stdout
+ 
+
+15:10:21 Build Finished. 0 errors, 0 warnings. (took 546ms)
+

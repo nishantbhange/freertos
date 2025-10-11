@@ -1,0 +1,11 @@
+../Core/Src/Led_Effect.c:17:7:all_led_off	8	static
+../Core/Src/Led_Effect.c:23:7:all_led_on	8	static
+../Core/Src/Led_Effect.c:30:7:even_led_on	8	static
+../Core/Src/Led_Effect.c:37:7:odd_led_on	8	static
+../Core/Src/Led_Effect.c:45:6:led_effect_stop	24	static
+../Core/Src/Led_Effect.c:53:7:led_effect	32	static
+../Core/Src/Led_Effect.c:58:7:led_effect_callback	16	static
+../Core/Src/Led_Effect.c:81:7:Led_effect_e1	8	static
+../Core/Src/Led_Effect.c:87:7:Led_effect_e2	8	static
+../Core/Src/Led_Effect.c:91:8:Led_effect_e3	4	static
+../Core/Src/Led_Effect.c:98:7:Led_effect_e4	4	static

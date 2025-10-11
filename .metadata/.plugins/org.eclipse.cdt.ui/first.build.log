@@ -1,0 +1,10 @@
+15:10:16 **** Build of configuration Debug for project first ****
+make -j16 all 
+arm-none-eabi-size  first.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27752	    108	  84828	 112688	  1b830	first.elf
+Finished building: default.size.stdout
+ 
+
+15:10:18 Build Finished. 0 errors, 0 warnings. (took 1s.893ms)
+

@@ -1,0 +1,5 @@
+../Src/main.c:36:5:add	1
+../Src/main.c:39:29:change_sp_to_msp	1
+../Src/main.c:53:6:generate_exception	1
+../Src/main.c:58:6:SVC_Handler	1
+../Src/main.c:63:5:main	1

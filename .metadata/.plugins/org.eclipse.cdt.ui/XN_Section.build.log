@@ -1,0 +1,10 @@
+10:24:22 **** Incremental Build of configuration Debug for project XN_Section ****
+make -j16 all 
+arm-none-eabi-size  XN_Section.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5068	     92	   1900	   7060	   1b94	XN_Section.elf
+Finished building: default.size.stdout
+ 
+
+10:24:22 Build Finished. 0 errors, 0 warnings. (took 350ms)
+

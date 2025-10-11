@@ -1,0 +1,7 @@
+../Core/Src/Task_handler.c:23:6:menuHANDLER	6
+../Core/Src/Task_handler.c:86:6:ledHANDLER	7
+../Core/Src/Task_handler.c:157:6:rtcHANDLER	8
+../Core/Src/Task_handler.c:283:6:printHANDLER	1
+../Core/Src/Task_handler.c:293:6:commandHANDLER	2
+../Core/Src/Task_handler.c:308:6:Process_Command	5
+../Core/Src/Task_handler.c:337:5:Extract_Command	4

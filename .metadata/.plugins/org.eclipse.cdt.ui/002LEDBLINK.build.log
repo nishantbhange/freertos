@@ -1,0 +1,10 @@
+23:21:16 **** Build of configuration Debug for project 002LEDBLINK ****
+make -j16 all 
+arm-none-eabi-size  002LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28084	     16	  84632	 112732	  1b85c	002LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+
+23:21:16 Build Finished. 0 errors, 0 warnings. (took 505ms)
+
